@@ -5,7 +5,7 @@
 <ul>
 <li>SpringBoot</li>
 <li>Typescript</li>
-<li>Javascript</li>
+<li>JavaScript</li>
 </ul>
 
 
