@@ -1,6 +1,11 @@
 <h2 align="center">Hi there, I'm Sunny Shah 👋</h2>
 <h3 align="center">I am a Software Engineer based in Connecticut, USA with a strong proficiency in building full stack web applications. My areas of expertise include React and Nodejs. As a professional, I am passionate about leveraging my technical skills to develop robust and scalable solutions for complex web-based projects.</h3>
 
+what am currently learning
+<ul>
+<li>Springboot</li>
+<li>Typescript</li>  
+</ul>
 - 🔭 I’m currently working on **Springboot**
 
 <h3 align="left">Connect with me:</h3>
